@@ -1,0 +1,1 @@
+# This is a calculator, developed with HTML, CSS and JavaScript.
